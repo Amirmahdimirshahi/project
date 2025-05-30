@@ -1,0 +1,10 @@
+openai-whisper
+gradio
+noisereduce
+pydub
+ffmpeg
+numpy
+scipy
+torchaudio
+pyannote.audio
+huggingface_hub
